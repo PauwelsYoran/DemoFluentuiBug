@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluentbugpt-2-client-side-solution",
+    "id": "4d805ad0-5981-427b-babe-9f67eb7929cc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentbugpt2 description"
+      },
+      "longDescription": {
+        "default": "fluentbugpt2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluentbugpt-2 Feature",
+        "description": "The feature that activates elements of the fluentbugpt-2 solution.",
+        "id": "76d386e1-ea71-4acd-a04b-f7072ad9822a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluentbugpt-2.sppkg"
+  }
+}

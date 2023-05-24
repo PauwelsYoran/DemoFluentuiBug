@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "fluentbugpt-2",
+    "libraryId": "4d805ad0-5981-427b-babe-9f67eb7929cc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fluentbugpt2",
+    "solutionShortDescription": "fluentbugpt2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
